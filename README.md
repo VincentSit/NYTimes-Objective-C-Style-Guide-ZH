@@ -1,18 +1,3 @@
-# 译者的话
-
-代码风格的重要性对于一个团队和项目来说不言而喻。网上有许多 Objective-C 的代码风格，但这份简洁而又最符合苹果的规范，同时有助于养成良好的代码习惯，也是我们团队一直遵循的代码风格。
-
-原文在[这里][original_link]。
-本人才疏学浅，如果有任何翻译不当欢迎在 [Issues][Issues_link] 中反馈或者直接 [Fork][Fork_link] 。
-
-[original_link]:https://github.com/NYTimes/objective-c-style-guide
-
-[Issues_link]:https://github.com/VincentSit/NYTimes-Objective-C-Style-Guide-ZH/issues
-
-[Fork_link]:https://github.com/NYTimes/objective-c-style-guide/fork
-
-----
-
 # 纽约时报 移动团队 Objective-C 风格指南
 
 这份风格指南概括了纽约时报 iOS 团队的代码约定。
